@@ -11,9 +11,9 @@ The official repo of the PR paper 'Discriminative-Unimodal-Feature-Selection-and
 测试： python run_infence.py --run-type 1 --device 3
 
 # Requirement
-Python 3.6
-PyTorch 1.3.0
-torchvision
-numpy
-Pillow
-Cython
+- Python 3.6
+- PyTorch 1.3.0
+- torchvision
+- numpy
+- Pillow
+- Cython
