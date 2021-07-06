@@ -7,8 +7,8 @@ The official repo of the PR paper 'Discriminative-Unimodal-Feature-Selection-and
 提取码：1234
 
 # 代码运行
-训练： python run.py --run-type 1 --device 3
-测试： python run_infence.py --run-type 1 --device 3
+## 训练： python run.py --run-type 1 --device 3
+## 测试： python run_infence_nju.py --run-type 1 --device 3
 
 # Requirement
 - Python 3.6
